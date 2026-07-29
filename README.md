@@ -1,30 +1,27 @@
-<!-- Intro -->
-##### INTRO
-Hi~, here is Kexin Tang (Ke-Hsin Tang). I like playing tennis 🎾, watching soccer ⚽ and taking photos 📷. My personal blog is now available [here](http://www.kexintang.xyz).
+# Intro
 
-I am currently working at <a href="https://www.linkedin.com/company/bloomberg/">Bloomberg</a> as a Software Engineer. I used to be a Software Engineer Intern at <a href="https://www.linkedin.com/company/tiktok/">TikTok Database</a> and <a href="https://www.linkedin.com/company/xiaomi-technology/">Xiaomi</a>.
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:kexintang.0210@gmail.com) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kexintang0210/) · [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kexiinttt/)
 
-I am interested in distributed systems and database systems 🐱. During my previous internship, I wrote database kernel (vectorized execution engine & columnar data storage engine) via C++ 17, used <a href="https://clickhouse.com/">Clickhouse</a>, <a href="https://arrow.apache.org/">Apache Arrow</a>, <a href="https://grpc.io/">gRPC</a>, <a href="https://thrift.apache.org/">Apache thrift</a>, <a href="https://kudu.apache.org/">Apache Kudu</a>, etc.
+I’m Kexin Tang, a software engineer with experience in ***Database Kernels***, ***Distributed Systems***, ***Observability***, and ***Telemetry***. I am interested in AI Infra, Trading Systems, and other low-latency, performance-critical systems.
 
-<p align="center">
-    Master of Eng. in Computer Engineering @ <a href="https://www.uiuc.edu/">U.Illinois, Urbana-Champaign</a><br>
-    Bachelor of Eng. in Computer Engineering @ <a href="https://www.hust.edu.cn/">Huazhong U. of Science and Technology</a>
-</p>
+# Skills
 
-<!-- Links -->
-<p align="center">
-  <a href="mailto:KexinTang.0210@gmail.com"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope.svg" width="25" height="25"/></a>&emsp;
-  <a href="https://www.linkedin.com/in/kexintang0210/"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" width="25" height="25"/></a>&emsp;
-  <a href="http://www.kexintang.xyz"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/link.svg" width="25" height="25"/></a>
-    
-</p>
+- **Languages:** C++, Python, Rust, Java, TypeScript
+- **Databases:** MySQL, PostgreSQL, Redis, MongoDB, ClickHouse, RocksDB, Cassandra
+- **Distributed & Data Systems:** gRPC, Kafka, Spark, Flink
+- **AI Engineering:** PyTorch, Agentic Workflows, MCP Tools & Skills
+- **Infrastructure & Tools:** Docker, Kubernetes, Linux, Shell
 
-<hr>
+# Work Experience
+| Company | Role | Team | Period |
+| :------: | :------: | :------: | :------: |
+| Bloomberg | Software Engineer | Fixed Income & Derivatives Infra | Feb 2023 – Present |
+| TikTok | Software Engineer (Intern) | Distributed Database Kernel | May 2022 – Aug 2022 |
+| Xiaomi | Machine Learning Engineer (Intern) | Computer Vision Lab | Dec 2021 – Mar 2022 |
 
-<!-- Skills -->
-##### SKILLS
-- Language: C++, Python, Rust, Java, Typescript, Javascript
-- Database: MySQL, PostgreSQL, Redis, MongoDB, Clickhouse, RocksDB, Cassandra, Flink, Doris, Spark
-- Tool: Docker, Shell, gRPC, Apache Arrow, Apache thrift, Apache Parquet, Apache Kudu
+# Education
 
-<hr>
+| University | Degree | Period | GPA |
+| :------: | :------: | :------: | :------: |
+| University of Illinois Urbana-Champaign (UIUC) | Master of Engineering @ Computer Engineering | Aug 2021 - Dec 2022 | <sup>4.0</sup>/<sub>4.0</sub> |
+| Huazhong University of Science and Technology | Bachelor of Engineering @ Computer Engineering | Sep 2017 - Jun 2021 | <sup>3.9</sup>/<sub>4.0</sub> |
