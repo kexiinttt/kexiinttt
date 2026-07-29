@@ -2,7 +2,7 @@
 
 I’m Kexin Tang, a software engineer interested in AI Infra, Trading Systems, and other low-latency, performance-critical systems. I have experience in **database kernels**, **distributed systems**, **observability**, and **telemetry**.
 
-[![Email](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg)](mailto:kexintang.0210@gmail.com) · [![LinkedIn](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg)](https://www.linkedin.com/in/kexintang0210/) · [![Instagram](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg)](https://www.instagram.com/kexiinttt/)
+[![Email](https://img.shields.io/badge/Email-Contact me-EA4335?logo=gmail&logoColor=white)](mailto:kexintang.0210@gmail.com) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kexintang0210/) · [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kexiinttt/)
 
 ## Work Experience
 
