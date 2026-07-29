@@ -1,30 +1,38 @@
-<!-- Intro -->
-##### INTRO
-Hi~, here is Kexin Tang (Ke-Hsin Tang). I like playing tennis 🎾, watching soccer ⚽ and taking photos 📷. My personal blog is now available [here](http://www.kexintang.xyz).
+# Intro
 
-I am currently working at <a href="https://www.linkedin.com/company/bloomberg/">Bloomberg</a> as a Software Engineer. I used to be a Software Engineer Intern at <a href="https://www.linkedin.com/company/tiktok/">TikTok Database</a> and <a href="https://www.linkedin.com/company/xiaomi-technology/">Xiaomi</a>.
+I’m Kexin Tang, a software engineer interested in AI Infra, Trading Systems, and other low-latency, performance-critical systems. I have experience in **database kernels**, **distributed systems**, **observability**, and **telemetry**.
 
-I am interested in distributed systems and database systems 🐱. During my previous internship, I wrote database kernel (vectorized execution engine & columnar data storage engine) via C++ 17, used <a href="https://clickhouse.com/">Clickhouse</a>, <a href="https://arrow.apache.org/">Apache Arrow</a>, <a href="https://grpc.io/">gRPC</a>, <a href="https://thrift.apache.org/">Apache thrift</a>, <a href="https://kudu.apache.org/">Apache Kudu</a>, etc.
+[![Email](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg)](mailto:kexintang.0210@gmail.com) · [![LinkedIn](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg)](https://www.linkedin.com/in/kexintang0210/) · [![Instagram](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg)](https://www.instagram.com/kexiinttt/)
 
-<p align="center">
-    Master of Eng. in Computer Engineering @ <a href="https://www.uiuc.edu/">U.Illinois, Urbana-Champaign</a><br>
-    Bachelor of Eng. in Computer Engineering @ <a href="https://www.hust.edu.cn/">Huazhong U. of Science and Technology</a>
-</p>
+## Work Experience
 
-<!-- Links -->
-<p align="center">
-  <a href="mailto:KexinTang.0210@gmail.com"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope.svg" width="25" height="25"/></a>&emsp;
-  <a href="https://www.linkedin.com/in/kexintang0210/"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" width="25" height="25"/></a>&emsp;
-  <a href="http://www.kexintang.xyz"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/link.svg" width="25" height="25"/></a>
-    
-</p>
+### Bloomberg — Software Engineer
 
-<hr>
+- Design and develop software systems with a focus on distributed systems and database systems.
 
-<!-- Skills -->
-##### SKILLS
-- Language: C++, Python, Rust, Java, Typescript, Javascript
-- Database: MySQL, PostgreSQL, Redis, MongoDB, Clickhouse, RocksDB, Cassandra, Flink, Doris, Spark
-- Tool: Docker, Shell, gRPC, Apache Arrow, Apache thrift, Apache Parquet, Apache Kudu
+### TikTok Database — Software Engineer Intern
 
-<hr>
+- Developed database kernel components, including a vectorized execution engine and a columnar data storage engine, using C++17.
+- Worked with ClickHouse, Apache Arrow, gRPC, Apache Thrift, and Apache Kudu.
+
+### Xiaomi — Software Engineer Intern
+
+- Contributed to software engineering projects and database-related systems.
+
+## Education
+
+### University of Illinois Urbana-Champaign
+
+Master of Engineering in Computer Engineering
+
+### Huazhong University of Science and Technology
+
+Bachelor of Engineering in Computer Engineering
+
+## Skills
+
+- **Languages:** C++, Python, Rust, Java, TypeScript, JavaScript
+- **Databases and data systems:** MySQL, PostgreSQL, Redis, MongoDB, ClickHouse, RocksDB, Cassandra, Flink, Doris, Spark
+- **Tools and frameworks:** Docker, Shell, gRPC, Apache Arrow, Apache Thrift, Apache Parquet, Apache Kudu
+
+
