@@ -7,7 +7,7 @@ I’m Kexin Tang, a software engineer with experience in ***Database Kernels***,
 # Skills
 
 - **Languages:** C++, Python, Rust, Java, TypeScript
-- **Databases:** MySQL, PostgreSQL, Redis, MongoDB, ClickHouse, RocksDB, Cassandra
+- **Databases:** MySQL, PostgreSQL, Redis, MongoDB, DocumentDB, ClickHouse, RocksDB, Cassandra
 - **Distributed & Data Systems:** gRPC, Kafka, Spark, Flink
 - **AI Engineering:** PyTorch, Agentic Workflows, MCP Tools & Skills
 - **Infrastructure & Tools:** Docker, Kubernetes, Linux, Shell
@@ -15,7 +15,8 @@ I’m Kexin Tang, a software engineer with experience in ***Database Kernels***,
 # Work Experience
 | Company | Role | Team | Period |
 | :------: | :------: | :------: | :------: |
-| Bloomberg | Software Engineer | Fixed Income & Derivatives Infra | Feb 2023 – Present |
+| Rippling | Software Engineer II | Rippling AI Core Platform | Sep 2026 - present |
+| Bloomberg | Software Engineer | Fixed Income & Derivatives Infra | Feb 2023 – Sep 2026 |
 | TikTok | Software Engineer (Intern) | Distributed Database Kernel | May 2022 – Aug 2022 |
 | Xiaomi | Machine Learning Engineer (Intern) | Computer Vision Lab | Dec 2021 – Mar 2022 |
 
